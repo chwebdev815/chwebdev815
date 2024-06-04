@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, there 👋 </h1>
 
 <h3>
-  I am a senior software engineer with 10 yrs of experience in Javascript, PHP, Python, eCommerce frameworks and libraries as well as iOS & Android </br></br>
+  I am a senior software engineer with 12 yrs of experience in Javascript, PHP, Python, eCommerce frameworks and libraries as well as iOS & Android </br></br>
   I have built many kinds of public & private Websites, Webapps, eCommerce sites, Mobile Apps Chrome Extensions, HTML5 Games with serveral great internaltional companies.</br>   </br>
   I never stop learning new skill and love to challenge top trend techniques. </br></br>
   If you have any idea, please contact me for tuning into beautiful web projects.</br></br>
